@@ -1,6 +1,5 @@
 #ifndef PacketSerial_H
 #define PacketSerial_H
-
 #include <Arduino.h>
 
 class PacketSerial
